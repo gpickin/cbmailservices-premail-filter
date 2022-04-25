@@ -1,0 +1,58 @@
+{
+    "author":"Gavin Pickin",
+    "bugs":"",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{},
+    "description":"",
+    "devDependencies":{},
+    "documentation":"",
+    "homepage":"",
+    "ignore":[
+        "**/.*",
+        "/test/",
+        "/tests/"
+    ],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":"CBMailServices,CFMail,Mail,Dev",
+    "license":[
+        {
+            "type":"",
+            "URL":""
+        }
+    ],
+    "location":"ForgeboxStorage",
+    "name":"CBMailServices PreMail Filter",
+    "private":false,
+    "projectURL":"",
+    "repository":{
+        "type":"",
+        "URL":""
+    },
+    "scripts":{},
+    "shortDescription":"This allows you to filter emails sent by CBMailServices on the PreMail Interception point, completely by Environment Variables. This gives you some great control and flexibility",
+    "slug":"cbmailservices-premail-filter",
+    "testbox":{
+        "bundles":"",
+        "directory":"tests.specs",
+        "excludes":"",
+        "labels":"",
+        "options":{},
+        "recurse":true,
+        "reporter":"",
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "testBundles":"",
+        "testSpecs":"",
+        "testSuites":"",
+        "verbose":true,
+        "watchDelay":500,
+        "watchPaths":"**.cfc"
+    },
+    "type":"modules",
+    "version":"1.0.0"
+}
